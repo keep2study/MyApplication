@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var myT1: TextView =findViewById<TextView>(R.id.t1)
-        myT1.text="Hello !!!"
+        myT1.text="Hello !!!  "
 
         var btn1=findViewById<Button>(R.id.button1)
 
