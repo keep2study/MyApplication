@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".Page4"
+            android:name=".SecondPage"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
